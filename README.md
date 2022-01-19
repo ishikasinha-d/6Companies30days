@@ -80,7 +80,7 @@
 
 
 - [x] 1.Find a continuous sub-array which adds to a given number S.<a href="https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1">Link</a>
-- [ ] 2.Find the length of the Longest Arithmetic Progression (LLAP) in it.<a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/">Link</a>
+- [x] 2.Find the length of the Longest Arithmetic Progression (LLAP) in it.<a href="https://practice.geeksforgeeks.org/problems/longest-arithmetic-progression1019/1/">Link</a>
 - [x] 3.Number of distinct Words with k maximum contiguous vowels(Joe and his Dictionary Problem)<a href="https://practice.geeksforgeeks.org/problems/7b9d245852bd8caf8a27d6d3961429f0a2b245f1/1/">Link</a>
 - [x] 4.Partition Equal Subset Sum<a href="https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1">Link</a>
 - [x] 5.Total number of ways n can be expressed as sum of xth power of unique natural numbers<a href="https://practice.geeksforgeeks.org/problems/express-as-sum-of-power-of-natural-numbers5647/1">Link</a>
