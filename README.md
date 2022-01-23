@@ -95,3 +95,25 @@
 - [x] 14.Smallest range in K lists <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Link</a>
 - [x] 15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.<a href="https://www.geeksforgeeks.org/adobe-interview-experience-for-mts-1-1-5-years-experienced/">Link</a>
 
+#### Day 21-25 :
+#### Company Name : Intuit
+
+<b>Doc </b><a href="https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit"><strong>Link »</strong></a><br/>
+<b>Youtube Video </b> <a href="https://www.youtube.com/watch?v=8kss7doOQmw&t=1s"><strong>Link »</strong></a><br/>
+
+
+- [x] 1.Partition a set into two subsets such that the difference of subset sums is minimum.<a href="https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/">Link</a>
+- [x] 2.Word Search.<a href="https://practice.geeksforgeeks.org/problems/word-search/1/">Link</a>
+- [x] 3.Find missing number in a string.<a href="https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/">Link</a>
+- [x] 4.Build the largest number possible by performing at most k swap operations on the digits of string.<a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1">Link</a>
+- [ ] 5.Spilt array into m non-empty continuous subarrays such that the largest sum among these m subarrays would be minimum.<a href="https://leetcode.com/problems/split-array-largest-sum/">Link</a>
+- [ ] 6.Find in mountain array.<a href="https://leetcode.com/problems/find-in-mountain-array">Link</a>
+- [ ] 7.Capacity to ship packages within d days.<a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days">Link</a>
+- [x] 8.Number of boomerangs.<a href="https://leetcode.com/problems/number-of-boomerangs/">Link</a>
+- [x] 9.Pacific Atlantic water flow.<a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">Link</a>
+- [x] 10.Number of provinces.<a href="https://leetcode.com/problems/number-of-provinces/">Link</a>
+- [ ] 11.Construct quad tree.<a href="https://leetcode.com/problems/construct-quad-tree/">Link</a>
+- [x] 12.Course schedule II<a href="https://leetcode.com/problems/course-schedule-ii/">Link</a>
+- [ ] 13.Minimum swaps to arrange a binary grid.<a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid">Link</a>
+- [x] 14.As far from land as possible.<a href="https://leetcode.com/problems/as-far-from-land-as-possible/">Link</a>
+- [x] 15.Koko eating bananas.<a href="https://leetcode.com/problems/koko-eating-bananas/">Link</a>
