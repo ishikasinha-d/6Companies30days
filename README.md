@@ -138,6 +138,6 @@
 - [x] 10.Generate uniform random points in a circle<a href="https://leetcode.com/problems/generate-random-point-in-a-circle">Link</a>
 - [x] 11.Maximum Performance of a Team<a href="https://leetcode.com/problems/maximum-performance-of-a-team">Link</a>
 - [ ] 12.Find array when subset sums are given<a href="https://leetcode.com/problems/find-array-given-subset-sums">Link</a>
-- [x] 13.Find the Kth Largest Integer in the Array<a href=" https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array">Link</a>
+- [x] 13.Find the Kth Largest Integer in the Array<a href="https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array">Link</a>
 - [x] 14.Largest number in k swaps<a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1/">Link</a>
 - [x] 15.Divide two numbers without using division or multiplication operators<a href="https://leetcode.com/problems/divide-two-integers/">Link</a>
